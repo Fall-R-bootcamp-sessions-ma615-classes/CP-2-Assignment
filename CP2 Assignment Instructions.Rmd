@@ -72,7 +72,7 @@ Write a function that prints a message citing a relatively-sized river given a p
 
 Your function should return a string in the following format: A river X miles long is shorter than/ longer than/ exactly as long as the "most similar river from above".
 
-ex:
+EX:
 
 -   "A river 325 miles long is shorter than the Des Moines River."
 -   "A river 9000 miles long is longer than the Rio Grande River."
