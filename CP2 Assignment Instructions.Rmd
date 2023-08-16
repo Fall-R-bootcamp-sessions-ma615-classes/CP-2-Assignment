@@ -1,0 +1,22 @@
+---
+title: "CP2--Assignment--Instructions"
+author: "Aidan O'Hara"
+date: "2023-08-15"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## CP2 Assignment Instructions
+
+- Locate the `cp2_assignment.R` file under Computation in the Bootcamp Teams channel.
+- Download the file and place it in an active repository (this can be a repo you already made, or a new repo if you feel like practicing)
+- Open the file in RStudio
+
+### Assignment Completion
+
+- Within `cp2_assignment.R` you will find instructions about how to complete each exercise as well as empty variable names for you to assign your answers.
+- Once you've completed the exercises, or just some of them, you can commit your changes to your repo like we've been practicing.
+- Afterwards, locate **CP-2 Assignment** in Gradescope, submit the link for your repository to Gradescope.  Gradescope will score you accordingly.  Multiple submissions are encouraged and coding solutions to fit the specifics, pre-loaded, on Gradescope can be tricky.  Pay close attention to the instructions and your answers to make things easiest. 
